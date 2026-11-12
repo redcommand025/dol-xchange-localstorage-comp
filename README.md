@@ -10,7 +10,8 @@ at commit `c5e7545fb504c5d20910b6b4970a5a3d0d29d666`. That repo is
 localStorage/IndexedDB.
 
 Contents: `index.html` (built with `./compile.sh`, storage fallback prepended), plus `img/`, `img2/`,
-`audio/` and `style.css` from the source commit. Optional image packs (`imagepacks/`) are not included.
+`audio/` and `style.css` from the source commit. Audio is stored in upstream Git LFS; the real MP3s are
+committed here as plain files (hash-checked against the LFS pointers) because GitHub Pages does not serve LFS content. Optional image packs (`imagepacks/`) are not included.
 
 Credits: Degrees of Lewdity by Vrelnir and contributors; DoLPlus by Frostberg and contributors;
 X-Change Edition by Akoz and contributors. Licensed under CC BY-NC-SA 4.0 (see `LICENSE`), same as upstream.
