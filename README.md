@@ -4,7 +4,7 @@ Play: https://redcommand025.github.io/dol-xchange-localstorage-comp/
 
 This repo is a ready-to-serve compiled build (GitHub Pages) of
 [redcommand025/dol-xchange-localstorage](https://github.com/redcommand025/dol-xchange-localstorage)
-at commit `e071d137867595698bb7d33d93a757e3adb62b73`. That repo is
+at commit `c5e7545fb504c5d20910b6b4970a5a3d0d29d666`. That repo is
 [Akoz/dol-xchange](https://gitgud.io/Akoz/dol-xchange) (upstream commit `ddb1cf03`, version
 `0.5.13.8 DoLP v0.778 DoLX 0.22.5`) plus a fallback that lets the game start when the browser blocks
 localStorage/IndexedDB.
